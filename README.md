@@ -40,4 +40,3 @@ Updated 1 October 2021
 * For questions where we ask for code (e.g. Question 1d), we do not expect you to re-implement low level functions such as matrix multiplication yourself - use numpy
 * For questions where you are asked to plot the the data and the specific split is not specified (e.g. Question 3b), you should plot the train data
 * Do not split any of the data into train and validation unless requested to do so
-* `faces_train.csv` mentioned in the question sheet refers to `faces_train_data.csv` in the Github repository. The same is also true for `faces_test.csv`
