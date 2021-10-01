@@ -1,0 +1,2 @@
+# INFR10069-2021-CW1
+Coursework 1 repository for IAML 2021 - INFR10069 (Level 10) (NOT ASSESSED)
