@@ -31,7 +31,6 @@ You have a few options to create the final PDF:
 
 Instructions will be provided on the IAML Learn page telling you how to upload your final PDF to Gradescope. 
 
-
 ## FAQs
 Updated 1 October 2021
 * Piazza private questions to instructions should not be used to request hints
