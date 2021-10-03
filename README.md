@@ -1,7 +1,7 @@
 # IAML 2021 - INFR10069 (Level 10) Assignment 1
 This is the repository for Assignment 1 for IAML 2021.
 
-**N.B.: This is the assignment for the Level 10 version of the course. If you are on the Level 11 course (i.e. likely an MSc student), then you should use [this](https://github.com/uoe-iaml/INFR11182-2021-CW1) version instead.**
+**N.B.: This is the assignment for the Level 10 version of the course. If you are on the Level 11 course (i.e. likely an MSc student), then you should use [this](https://github.com/uoe-iaml/INFR11181-2021-CW1) version instead.**
 
 ## Repository Contents
 
@@ -9,6 +9,10 @@ This is the repository for Assignment 1 for IAML 2021.
  * `Assignment_1.tex`: This is the template you should modify to writeup your assignment.
  * `style.tex`: This is the style file for the assignment template. **Do not modify** this file in any way.
  * `data`: This is a directory (folder) which contains all the data you need to complete the assignment.
+
+## Adding your student ID
+Please make sure you add your student ID number by uncommenting the line in the `Assignment_1.tex' file, i.e. remove the "\%" sign before  
+`\newcommand{\assignmentAuthorName}{s1234567}'.
 
 ## Conda Environment
 
@@ -18,18 +22,19 @@ Failing to do will result in you loosing points.
 ## Building the PDF
 
 This repository provides a latex template (`Assignment_1.tex`) for generating the final PDF that you will submit. 
-You **must not** edit the style or formating of this document.
+You **must not** edit the style or formatting of this document.
 The only thing you need to do is enter your student number (see PDF for instructions) and put your answers in the correct answer boxes. 
 
 You have a few options to create the final PDF:
-* From a DICE machine you can run `pdflatex Assignment_1.tex` twice from the command line to compile the PDF. 
-* You can do the same from your own computer, provided you have latex and all the necessary packages installed. Unfortunately, we do not support troubleshooting this step for you. 
-* You can also use a free browser based latex editor such as [Overleaf](https://www.overleaf.com). **If you use such a tool, make sure to keep your document private and do not share the link to it.** 
+* You can use a free browser based latex editor such as [Overleaf](https://www.overleaf.com). **If you use such a tool, make sure to keep your document private and do not share the link to it.** 
+* Also, From a DICE machine you can run `pdflatex Assignment_1.tex` twice from the command line to compile the PDF. 
+* As a third option, you can do the same from your own computer, provided you have latex and all the necessary packages installed. Unfortunately, we do not support troubleshooting this step for you. 
 
 
 ## Submitting the Final PDF
 
 Instructions will be provided on the IAML Learn page telling you how to upload your final PDF to Gradescope. 
+
 
 ## FAQs
 Updated 1 October 2021
@@ -37,5 +42,5 @@ Updated 1 October 2021
 * If a particular hyperparameter or setting for an algorithm is not specified in the question, it is implied that you use the default sklearn settings
 * Unless you are requested to implement something yourself you can use the provided sklearn or numpy functions
 * For questions where we ask for code (e.g. Question 1d), we do not expect you to re-implement low level functions such as matrix multiplication yourself - use numpy
-* For questions where you are asked to plot the the data and the specific split is not specified (e.g. Question 3b), you should plot the train data
+* For questions where you are asked to plot the the data and the specific split is not specified, you should plot the train data
 * Do not split any of the data into train and validation unless requested to do so
