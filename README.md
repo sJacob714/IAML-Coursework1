@@ -11,8 +11,7 @@ This is the repository for Assignment 1 for IAML 2021.
  * `data`: This is a directory (folder) which contains all the data you need to complete the assignment.
 
 ## Adding your student ID
-Please make sure you add your student ID number by uncommenting the line in the `Assignment_1.tex' file, i.e. remove the "\%" sign before  
-the line: \newcommand{\assignmentAuthorName}{s1234567}'.
+Please make sure you add your student ID number by uncommenting the line in the `Assignment_1.tex' file, i.e. remove the "\%" sign before the line: \newcommand{\assignmentAuthorName}{s1234567}.
 
 ## Conda Environment
 
