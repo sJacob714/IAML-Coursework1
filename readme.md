@@ -9,6 +9,10 @@ This is the repository for Coursework 1 for IAML 2021.
  * `Assignment_1.tex`: This is the template you should modify to writeup your coursework.
  * `style.tex`: This is the style file for the coursework template. **Do not modify** this file in any way.
  * `data`: This is a directory (folder) which contains all the data you need to complete the coursework.
+ 
+## A note on working with GIT
+ 
+ * If you are not familiar with version control systems, we recommend just downloading the repository as a zip file and using it as is. If you would like to use the repository for your own work, you **must** fork the current repository into a private one. Publishing your solution is not permitted, in line with the policy on [Academic Misconduct](https://web.inf.ed.ac.uk/infweb/admin/policies/academic-misconduct).
 
 ## Adding your student ID
 Please make sure you add your student ID number by uncommenting the line in the `Assignment_1.tex' file, i.e. remove the "\%" sign before the line: \newcommand{\assignmentAuthorName}{s1234567}.
