@@ -1,22 +1,21 @@
-# IAML 2021 - INFR10069 (Level 10) Assignment 1
-This is the repository for Assignment 1 for IAML 2021.
+# IAML 2021 - INFR10069 (Level 10) Coursework 1
+This is the repository for Coursework 1 for IAML 2021.
 
-**N.B.: This is the assignment for the Level 10 version of the course. If you are on the Level 11 course (i.e. likely an MSc student), then you should use [this](https://github.com/uoe-iaml/INFR11181-2021-CW1) version instead.**
+**N.B.: This is the coursework for the Level 10 version of the course. If you are on the Level 11 course (i.e. likely an MSc student), then you should use [this](https://github.com/uoe-iaml/INFR11181-2021-CW1) version instead.**
 
 ## Repository Contents
 
- * `IAML_2021_CW1_INFR10069_Instructions.pdf`: This is the pdf with the question-sheet for the assignment.
- * `Assignment_1.tex`: This is the template you should modify to writeup your assignment.
- * `style.tex`: This is the style file for the assignment template. **Do not modify** this file in any way.
- * `data`: This is a directory (folder) which contains all the data you need to complete the assignment.
+ * `IAML_2021_CW1_INFR10069_Instructions.pdf`: This is the pdf with the question-sheet for the coursework.
+ * `Assignment_1.tex`: This is the template you should modify to writeup your coursework.
+ * `style.tex`: This is the style file for the coursework template. **Do not modify** this file in any way.
+ * `data`: This is a directory (folder) which contains all the data you need to complete the coursework.
 
 ## Adding your student ID
-Please make sure you add your student ID number by uncommenting the line in the `Assignment_1.tex' file, i.e. remove the "\%" sign before  
-the line: \newcommand{\assignmentAuthorName}{s1234567}'.
+Please make sure you add your student ID number by uncommenting the line in the `Assignment_1.tex' file, i.e. remove the "\%" sign before the line: \newcommand{\assignmentAuthorName}{s1234567}.
 
 ## Conda Environment
 
-For this assignment you **must** use the same versions of the packages that are specified in the [IAML Labs repository](https://github.com/uoe-iaml/iaml-labs). 
+For this coursework you **must** use the same versions of the packages that are specified in the [IAML Labs repository](https://github.com/uoe-iaml/iaml-labs). 
 Failing to do will result in you loosing points. 
 
 ## Building the PDF
